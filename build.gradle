@@ -26,4 +26,7 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.13'
+    
+    // Use OpenCSV 
+    implementation 'com.opencsv:opencsv:4.6'
 }
